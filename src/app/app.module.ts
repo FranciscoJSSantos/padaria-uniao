@@ -1,0 +1,31 @@
+import { NgModule } from '@angular/core';
+import { BrowserModule } from '@angular/platform-browser';
+
+import { AppRoutingModule } from './app-routing.module';
+import { AppComponent } from './app.component';
+import { CardapioComponent } from './main/cardapio/cardapio.component';
+import { ContatoComponent } from './main/contato/contato.component';
+import { EncomendaComponent } from './main/encomenda/encomenda.component';
+import { HistoriaComponent } from './main/historia/historia.component';
+import { LocalizacaoComponent } from './main/localizacao/localizacao.component';
+import { FooterComponent } from './utils/footer/footer.component';
+import { HeaderComponent } from './utils/header/header.component';
+import { HomeComponent } from './main/home/home.component';
+
+@NgModule({
+  declarations: [
+    AppComponent,
+    FooterComponent,
+    HeaderComponent,
+    LocalizacaoComponent,
+    ContatoComponent,
+    CardapioComponent,
+    EncomendaComponent,
+    HistoriaComponent,
+    HomeComponent,
+  ],
+  imports: [BrowserModule, AppRoutingModule],
+  providers: [],
+  bootstrap: [AppComponent],
+})
+export class AppModule {}
