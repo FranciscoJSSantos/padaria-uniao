@@ -10,13 +10,13 @@ const routes: Routes = [
   {
     path: 'home',
     loadChildren: () =>
-      import('../app/main/home/home.module').then((m) => m.HomeModule),
+      import('../app/components/home/home.module').then((m) => m.HomeModule),
     pathMatch: 'full',
   },
   {
     path: 'cardapio',
     loadChildren: () =>
-      import('../app/main/cardapio/cardapio.module').then(
+      import('../app/components/cardapio/cardapio.module').then(
         (m) => m.CardapioModule
       ),
     pathMatch: 'full',
@@ -24,13 +24,13 @@ const routes: Routes = [
   {
     path: 'contato',
     loadChildren: () =>
-      import('../app/main/contato/contato.module').then((m) => m.ContatoModule),
+      import('../app/components/contato/contato.module').then((m) => m.ContatoModule),
     pathMatch: 'full',
   },
   {
     path: 'encomenda',
     loadChildren: () =>
-      import('../app/main/encomenda/encomenda.module').then(
+      import('../app/components/encomenda/encomenda.module').then(
         (m) => m.EncomendaModule
       ),
     pathMatch: 'full',
@@ -38,7 +38,7 @@ const routes: Routes = [
   {
     path: 'historia',
     loadChildren: () =>
-      import('../app/main/historia/historia.module').then(
+      import('../app/components/historia/historia.module').then(
         (m) => m.HistoriaModule
       ),
     pathMatch: 'full',
@@ -46,7 +46,7 @@ const routes: Routes = [
   {
     path: 'localizacao',
     loadChildren: () =>
-      import('../app/main/localizacao/localizacao.module').then(
+      import('../app/components/localizacao/localizacao.module').then(
         (m) => m.LocalizacaoModule
       ),
     pathMatch: 'full',
