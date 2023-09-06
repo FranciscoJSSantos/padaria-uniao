@@ -3,11 +3,23 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&family=Yellowtail&display=swap');
+
 
 body {
    background-color: #FFF;
+   font-family: 'Ubuntu', sans-serif;
+}
+
+.color_uniao_blue {
+   color: #274F6E;
 }
 
 .background_uniao_blue {
    background-color: #274F6E;
 }
+
+.background_uniao_blue_2 {
+   background-color: #1F3D4D;
+}
+
