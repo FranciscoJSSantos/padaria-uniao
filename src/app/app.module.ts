@@ -5,7 +5,6 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { CardapioComponent } from './components/cardapio/cardapio.component';
 import { ContatoComponent } from './components/contato/contato.component';
-import { EncomendaComponent } from './components/encomenda/encomenda.component';
 import { LocalizacaoComponent } from './components/localizacao/localizacao.component';
 import { FooterComponent } from './utils/footer/footer.component';
 import { HeaderComponent } from './utils/header/header.component';
@@ -18,7 +17,6 @@ import { HeaderComponent } from './utils/header/header.component';
     LocalizacaoComponent,
     ContatoComponent,
     CardapioComponent,
-    EncomendaComponent,
   ],
   imports: [BrowserModule, AppRoutingModule],
   providers: [],
