@@ -1,0 +1,94 @@
+{
+   "produtos": [
+      {
+         "id": 1,
+         "nome": "PASTEL FRITO DE CARNE DE PORCO (SÓ COM AÇÚCAR)",
+         "descricao": "",
+         "valor": 2.00
+      },
+      {
+         "id": 2,
+         "nome": "BARQUETE DE CAMARÃO",
+         "descricao": "",
+         "valor": 2.00
+      },
+      {
+         "id": 3,
+         "nome": "PASTEL FRITO DE FRANGO (COM AÇÚCAR E CANELA)",
+         "descricao": "",
+         "valor": 1.65
+      },
+      {
+         "id": 4,
+         "nome": "EMPADA DE CAMARÃO",
+         "descricao": "",
+         "valor": 2.00
+      },
+      {
+         "id": 5,
+         "nome": "TROPICAL",
+         "descricao":"MASSA:FORNO RECHEIO: FRANGO,UVA PASSAS E ABACAXI.",
+         "valor": 1.65
+      },
+      {
+         "id": 6,
+         "nome": "EMPADA DE CARNE",
+         "descricao":"",
+         "valor": 1.65
+      }, 
+      {
+         "id": 7,
+         "nome": "PASTEL FRITO DE QUEIJO",
+         "descricao":"",
+         "valor": 1.65
+      },
+      {
+         "id": 8,
+         "nome": "BOLINHO DE QUEIJO",
+         "descricao":"",
+         "valor": 1.45
+      },
+      {
+         "id": 9,
+         "nome": "PASTEL FORNO QUEIJO",
+         "descricao":"",
+         "valor": 1.65
+      },
+      {
+         "id": 10,
+         "nome": "BOLIVIANO",
+         "descricao":"MASSA: FRITURA. BANHADO NO AÇÚCAR E CANELA RECHEIO: FRANGO E UVA PASSAS",
+         "valor": 1.65
+      },
+      {
+         "id": 11,
+         "nome": "PÃO DE QUEIJO ABERTO",
+         "descricao":"",
+         "valor": 1.25
+      },
+      {
+         "id": 12,
+         "nome": "RISOLE CAMARÃO",
+         "descricao":"MASSA: FRITURA RECHEIO: CAMARÃO",
+         "valor": 2.00
+      },
+      {
+         "id": 13,
+         "nome": "RISOLE CAMARÃO",
+         "descricao":"MASSA: FRITURA RECHEIO: CAMARÃO",
+         "valor": 2.00
+      },
+      {
+         "id": 14,
+         "nome": "BARQUETE FRANGO",
+         "descricao":"",
+         "valor": 1.65
+      },
+      {
+         "id": 14,
+         "nome": "CANUDINHO DE FRANGO",
+         "descricao":"",
+         "valor": 1.65
+      }
+   ]
+}
