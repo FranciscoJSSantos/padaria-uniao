@@ -3,434 +3,573 @@
     {
       "id": 1,
       "nome": "PASTEL FRITO DE CARNE DE PORCO (SÓ COM AÇÚCAR)",
+      "tipo": "salgado",
       "descricao": "",
-      "valor": 2.0
+      "valor": 2.0,
+      "figura": "../../assets/pictures/produtos/salgado/PASTEL FRITO DE CARNE DE PORCO SO COM ACUCAR.png"
     },
     {
       "id": 2,
       "nome": "BARQUETE DE CAMARÃO",
+      "tipo": "salgado",
       "descricao": "",
-      "valor": 2.0
+      "valor": 2.0,
+      "figura": "../../assets/pictures/produtos/salgado/BARQUETE DE CAMARÃO.png"
     },
     {
       "id": 3,
       "nome": "PASTEL FRITO DE FRANGO (COM AÇÚCAR E CANELA)",
+      "tipo": "salgado",
       "descricao": "",
-      "valor": 1.65
+      "valor": 1.65,
+      "figura": "../../assets/pictures/produtos/salgado/PASTEL FRITO DE FRANGO (COM AÇÚCAR E CANELA).png"
     },
     {
       "id": 4,
       "nome": "EMPADA DE CAMARÃO",
+      "tipo": "salgado",
       "descricao": "",
-      "valor": 2.0
+      "valor": 2.0,
+      "figura": "../../assets/pictures/produtos/salgado/EMPADA DE CAMARAO.png"
     },
     {
       "id": 5,
       "nome": "TROPICAL",
+      "tipo": "salgado",
       "descricao": "MASSA:FORNO RECHEIO: FRANGO,UVA PASSAS E ABACAXI.",
-      "valor": 1.65
+      "valor": 1.65,
+      "figura": "../../assets/pictures/produtos/salgado/TROPICAL.png"
     },
     {
       "id": 6,
       "nome": "EMPADA DE CARNE",
+      "tipo": "salgado",
       "descricao": "",
-      "valor": 1.65
+      "valor": 1.65,
+      "figura": "../../assets/pictures/produtos/salgado/EMPADA DE CARNE.png"
     },
     {
       "id": 7,
       "nome": "PASTEL FRITO DE QUEIJO",
+      "tipo": "salgado",
       "descricao": "",
-      "valor": 1.65
+      "valor": 1.65,
+      "figura": "../../assets/pictures/produtos/salgado/PASTEL FRITO DE QUEIJO.png"
     },
     {
       "id": 8,
       "nome": "BOLINHO DE QUEIJO",
+      "tipo": "salgado",
       "descricao": "",
-      "valor": 1.45
+      "valor": 1.45,
+      "figura": "../../assets/pictures/produtos/salgado/BOLINHO DE QUEIJO.png"
     },
     {
       "id": 9,
       "nome": "PASTEL FORNO QUEIJO",
+      "tipo": "salgado",
       "descricao": "",
-      "valor": 1.65
+      "valor": 1.65,
+      "figura": "../../assets/pictures/produtos/salgado/PASTEL FORNO QUEIJO.png"
     },
     {
       "id": 10,
       "nome": "BOLIVIANO",
+      "tipo": "salgado",
       "descricao": "MASSA: FRITURA. BANHADO NO AÇÚCAR E CANELA RECHEIO: FRANGO E UVA PASSAS",
-      "valor": 1.65
+      "valor": 1.65,
+      "figura": "../../assets/pictures/produtos/salgado/BOLIVIANO.png"
     },
     {
       "id": 11,
       "nome": "PÃO DE QUEIJO ABERTO",
+      "tipo": "salgado",
       "descricao": "",
-      "valor": 1.25
+      "valor": 1.25,
+      "figura": "../../assets/pictures/produtos/salgado/PAO DE QUEIJO ABERTO.png"
     },
     {
       "id": 12,
       "nome": "RISOLE CAMARÃO",
+      "tipo": "salgado",
       "descricao": "MASSA: FRITURA RECHEIO: CAMARÃO",
-      "valor": 2.0
+      "valor": 2.0,
+      "figura": "../../assets/pictures/produtos/salgado/RISOLE CAMARAO.png"
     },
     {
       "id": 13,
-      "nome": "RISOLE CAMARÃO",
-      "descricao": "MASSA: FRITURA RECHEIO: CAMARÃO",
-      "valor": 2.0
+      "nome": "BARQUETE FRANGO",
+      "tipo": "salgado",
+      "descricao": "",
+      "valor": 1.65,
+      "figura": "../../assets/pictures/produtos/salgado/BARQUETE FRANGO.png"
     },
     {
       "id": 14,
-      "nome": "BARQUETE FRANGO",
+      "nome": "CANUDINHO DE FRANGO",
+      "tipo": "salgado",
       "descricao": "",
-      "valor": 1.65
+      "valor": 1.65,
+      "figura": "../../assets/pictures/produtos/salgado/CANUDINHO DE FRANGO.png"
     },
     {
       "id": 15,
-      "nome": "CANUDINHO DE FRANGO",
+      "nome": "PASTEL FRITO DE CARNE",
+      "tipo": "salgado",
       "descricao": "",
-      "valor": 1.65
+      "valor": 1.65,
+      "figura": "../../assets/pictures/produtos/salgado/PASTEL FRITO DE CARNE.png"
     },
     {
       "id": 16,
-      "nome": "PASTEL FRITO DE CARNE",
+      "nome": "PASTEL FRITO DE CAMARÃO",
+      "tipo": "salgado",
       "descricao": "",
-      "valor": 1.65
+      "valor": 2.0,
+      "figura": "../../assets/pictures/produtos/salgado/PASTEL FRITO DE CAMARAO.png"
     },
     {
       "id": 17,
-      "nome": "PASTEL FRITO DE CAMARÃO",
+      "nome": "PÃO DE QUEIJO SEM RECHEIO",
+      "tipo": "salgado",
       "descricao": "",
-      "valor": 2.0
+      "valor": 1.2,
+      "figura": "../../assets/pictures/produtos/salgado/PÃO DE QUEIJO SEM RECHEIO.png"
     },
     {
       "id": 18,
-      "nome": "PÃO DE QUEIJO SEM RECHEIO",
-      "descricao": "",
-      "valor": 1.2
+      "nome": "QUICHE DE PRESUNTO",
+      "tipo": "salgado",
+      "descricao": "MASSA: FORNO RECHEIO: PATE DE PRESUNTO",
+      "valor": 1.65,
+      "figura": "../../assets/pictures/produtos/salgado/QUICHE DE PRESUNTO.png"
     },
     {
       "id": 19,
-      "nome": "QUICHE DE PRESUNTO",
-      "descricao": "MASSA: FORNO RECHEIO: PATE DE PRESUNTO",
-      "valor": 1.65
+      "nome": "CROQUETE DE PRESUNTO",
+      "tipo": "salgado",
+      "descricao": "",
+      "valor": 1.65,
+      "figura": "../../assets/pictures/produtos/salgado/CROQUETE DE PRESUNTO.png"
     },
     {
       "id": 20,
-      "nome": "CROQUETE DE PRESUNTO",
+      "nome": "PASTEL FRITO DE FRANGO",
+      "tipo": "salgado",
       "descricao": "",
-      "valor": 1.65
+      "valor": 1.65,
+      "figura": "../../assets/pictures/produtos/salgado/PASTEL FRITO DE FRANGO.png"
     },
     {
       "id": 21,
-      "nome": "PASTEL FRITO DE FRANGO",
-      "descricao": "",
-      "valor": 1.65
+      "nome": "COPO DE LEITE",
+      "tipo": "salgado",
+      "descricao": "Frios",
+      "valor": 2.0,
+      "figura": "../../assets/pictures/produtos/salgado/COPO DE LEITE.png"
     },
     {
       "id": 22,
-      "nome": "COPO DE LEITE",
-      "descricao": "Frios",
-      "valor": 2.0
+      "nome": "COXINHA DE FRANGO",
+      "tipo": "salgado",
+      "descricao": "",
+      "valor": 1.45,
+      "figura": "../../assets/pictures/produtos/salgado/COXINHA DE FRANGO.png"
     },
     {
       "id": 23,
-      "nome": "COXINHA DE FRANGO",
+      "nome": "PÃO DE QUEIJO COM RECHEIO",
+      "tipo": "salgado",
       "descricao": "",
-      "valor": 1.45
+      "valor": 1.35,
+      "figura": "../../assets/pictures/produtos/salgado/PÃO DE QUEIJO COM RECHEIO.png"
     },
     {
       "id": 24,
-      "nome": "PÃO DE QUEIJO COM RECHEIO",
-      "descricao": "",
-      "valor": 1.35
+      "nome": "SALTANHA",
+      "tipo": "salgado",
+      "descricao": "MASSA: FORNO RECHEIO: CARNE APIMENTADA",
+      "valor": 1.65,
+      "figura": "../../assets/pictures/produtos/salgado/SALTANHA.png"
     },
     {
       "id": 25,
-      "nome": "SALTANHA",
-      "descricao": "MASSA: FORNO RECHEIO: CARNE APIMENTADA",
-      "valor": 1.65
+      "nome": "PASTEL FRITO DE CAMARÃO (SÓ COM AÇÚCAR)",
+      "tipo": "salgado",
+      "descricao": "",
+      "valor": 2.0,
+      "figura": "../../assets/pictures/produtos/salgado/PASTEL FRITO DE CAMARÃO (SÓ COM AÇÚCAR).png"
     },
     {
       "id": 26,
-      "nome": "PASTEL FRITO DE CAMARÃO (SÓ COM AÇÚCAR)",
-      "descricao": "",
-      "valor": 2.0
+      "nome": "APIMENTADO",
+      "tipo": "salgado",
+      "descricao": "MASSA: BOLINHO DE CAMARÃO RECHEIO: VINAGRETE APIMENTADA",
+      "valor": 1.65,
+      "figura": "../../assets/pictures/produtos/salgado/APIMENTADO.png"
     },
     {
       "id": 27,
-      "nome": "APIMENTADO",
-      "descricao": "MASSA: BOLINHO DE CAMARÃO RECHEIO: VINAGRETE APIMENTADA",
-      "valor": 1.65
+      "nome": "PASTEL FRITO DE CARNE DE PORCO",
+      "tipo": "salgado",
+      "descricao": "",
+      "valor": 2.0,
+      "figura": "../../assets/pictures/produtos/salgado/PASTEL FRITO DE CARNE DE PORCO.png"
     },
     {
       "id": 28,
-      "nome": "PASTEL FRITO DE CARNE DE PORCO",
+      "nome": "PASTEL FORNO CARNE",
+      "tipo": "salgado",
       "descricao": "",
-      "valor": 2.0
+      "valor": 1.65,
+      "figura": "../../assets/pictures/produtos/salgado/PASTEL FORNO CARNE.png"
     },
     {
       "id": 29,
-      "nome": "PASTEL FORNO CARNE",
+      "nome": "PASTEL FORNO CAMARÃO",
+      "tipo": "salgado",
       "descricao": "",
-      "valor": 1.65
+      "valor": 2.0,
+      "figura": "../../assets/pictures/produtos/salgado/PASTEL FORNO CAMARÃO.png"
     },
     {
       "id": 30,
-      "nome": "PASTEL FORNO CAMARÃO",
+      "nome": "EMPADA DE QUEIJO",
+      "tipo": "salgado",
       "descricao": "",
-      "valor": 2.0
+      "valor": 1.65,
+      "figura": "../../assets/pictures/produtos/salgado/EMPADA DE QUEIJO.png"
     },
     {
       "id": 31,
-      "nome": "EMPADA DE QUEIJO",
+      "nome": "PASTEL FRITO DE CARNE (COM AÇÚCAR E CANELA)",
+      "tipo": "salgado",
       "descricao": "",
-      "valor": 1.65
+      "valor": 1.65,
+      "figura": "../../assets/pictures/produtos/salgado/PASTEL FRITO DE CARNE (COM AÇÚCAR E CANELA).png"
     },
     {
       "id": 32,
-      "nome": "PASTEL FRITO DE CARNE (COM AÇÚCAR E CANELA)",
-      "descricao": "",
-      "valor": 1.65
+      "nome": "QUICHE DE FRANGO",
+      "tipo": "salgado",
+      "descricao": "MASSA: FORNO RECHEIO: PATE DE FRANGO",
+      "valor": 1.65,
+      "figura": "../../assets/pictures/produtos/salgado/QUICHE DE FRANGO.png"
     },
     {
       "id": 33,
-      "nome": "QUICHE DE FRANGO",
-      "descricao": "MASSA: FORNO RECHEIO: PATE DE FRANGO",
-      "valor": 1.65
+      "nome": "PASTEL FRITO DE FRANGO (SÓ COM AÇÚCAR)",
+      "tipo": "salgado",
+      "descricao": "",
+      "valor": 1.65,
+      "figura": "../../assets/pictures/produtos/salgado/PASTEL FRITO DE FRANGO (SÓ COM AÇÚCAR).png"
     },
     {
       "id": 34,
-      "nome": "PASTEL FRITO DE FRANGO (SÓ COM AÇÚCAR)",
+      "nome": "CANUDINHO DE CAMARÃO",
+      "tipo": "salgado",
       "descricao": "",
-      "valor": 1.65
+      "valor": 2.0,
+      "figura": "../../assets/pictures/produtos/salgado/CANUDINHO DE CAMARÃO.png"
     },
     {
       "id": 35,
-      "nome": "CANUDINHO DE CAMARÃO",
+      "nome": "CAJUZINHO",
+      "tipo": "doce",
       "descricao": "",
-      "valor": 2.0
+      "valor": 1.8,
+      "figura": "../../assets/pictures/produtos/doce/CAJUZINHO.png"
     },
     {
       "id": 36,
-      "nome": "CAJUZINHO",
+      "nome": "OLHO DE SOGRA",
+      "tipo": "doce",
       "descricao": "",
-      "valor": 1.8
+      "valor": 1.8,
+      "figura": "../../assets/pictures/produtos/doce/OLHO DE SOGRA.png"
     },
     {
       "id": 37,
-      "nome": "OLHO DE SOGRA",
+      "nome": "BEIJINHO DE COCO",
+      "tipo": "doce",
       "descricao": "",
-      "valor": 1.8
+      "valor": 1.8,
+      "figura": "../../assets/pictures/produtos/doce/BEIJINHO DE COCO.png"
     },
     {
       "id": 38,
-      "nome": "BEIJINHO DE COCO",
-      "descricao": "",
-      "valor": 1.8
+      "nome": "TACINHA DE MORANGO",
+      "tipo": "doce",
+      "descricao": "BASE DE CHOCOLATE E BASE DE MORANGO",
+      "valor": 4.0,
+      "figura": "../../assets/pictures/produtos/doce/TACINHA DE MORANGO.png"
     },
     {
       "id": 39,
-      "nome": "TACINHA DE MORANGO",
-      "descricao": "BASE DE CHOCOLATE E BASE DE MORANGO",
-      "valor": 4.0
+      "nome": "BOMBOM DE AMENDOIM",
+      "tipo": "doce",
+      "descricao": "",
+      "valor": 2.0,
+      "figura": "../../assets/pictures/produtos/doce/BOMBOM DE AMENDOIM.png"
     },
     {
       "id": 40,
-      "nome": "BOMBOM DE AMENDOIM",
+      "nome": "BRIGADEIRO RECHEADO",
+      "tipo": "doce",
       "descricao": "",
-      "valor": 2.0
+      "valor": 2.0,
+      "figura": "../../assets/pictures/produtos/doce/CAJUBRIGADEIRO RECHEADOZINHO.png"
     },
     {
       "id": 41,
-      "nome": "BRIGADEIRO RECHEADO",
+      "nome": "BOMBOM DE NINHO COM PASSAS",
+      "tipo": "doce",
       "descricao": "",
-      "valor": 2.0
+      "valor": 2.0,
+      "figura": "../../assets/pictures/produtos/doce/BOMBOM DE NINHO COM PASSAS.png"
     },
     {
       "id": 42,
-      "nome": "BOMBOM DE NINHO COM PASSAS",
-      "descricao": "",
-      "valor": 2.0
+      "nome": "CUPCAKE DE CHOCOLATE",
+      "tipo": "doce",
+      "descricao": "MASSA: BOLO CHOCOLATE. RECHEIO: BASE DE CHOCOLATE. COBERTURA: CHANTILLY COM CHOCOLATE, CONFETES E CEREJA",
+      "valor": 6.0,
+      "figura": "../../assets/pictures/produtos/doce/CUPCAKE DE CHOCOLATE.png"
     },
     {
       "id": 43,
-      "nome": "CUPCAKE DE CHOCOLATE",
-      "descricao": "MASSA: BOLO CHOCOLATE. RECHEIO: BASE DE CHOCOLATE. COBERTURA: CHANTILLY COM CHOCOLATE, CONFETES E CEREJA",
-      "valor": 6.0
+      "nome": "SURPRESA DE UVA",
+      "tipo": "doce",
+      "descricao": "",
+      "valor": 1.8,
+      "figura": "../../assets/pictures/produtos/doce/SURPRESA DE UVA.png"
     },
     {
       "id": 44,
-      "nome": "SURPRESA DE UVA",
+      "nome": "BOMBOM PRESTIGIO",
+      "tipo": "doce",
       "descricao": "",
-      "valor": 1.8
+      "valor": 2.0,
+      "figura": "../../assets/pictures/produtos/doce/BOMBOM PRESTIGIO.png"
     },
     {
       "id": 45,
-      "nome": "BOMBOM PRESTIGIO",
-      "descricao": "",
-      "valor": 2.0
+      "nome": "CUPCAKE DE MORANGO",
+      "tipo": "doce",
+      "descricao": "MASSA: BOLO BRANCO. RECHEIO: BASE DE LEITE CONDENSADO E GELEIA DE MORANGO. COBERTURA: CHANTILLY , CONFETES E CEREJA.",
+      "valor": 6.0,
+      "figura": "../../assets/pictures/produtos/doce/CUPCAKE  DE MORANGO.png"
     },
     {
       "id": 46,
-      "nome": "MASSA: BOLO BRANCO. RECHEIO: BASE DE LEITE CONDENSADO E GELEIA DE MORANGO. COBERTURA: CHANTILLY , CONFETES E CEREJA.",
+      "nome": "BRIGADEIRO",
+      "tipo": "doce",
       "descricao": "",
-      "valor": 6.0
+      "valor": 1.8,
+      "figura": "../../assets/pictures/produtos/doce/BRIGADEIRO.png"
     },
     {
       "id": 47,
-      "nome": "BRIGADEIRO",
+      "nome": "TACINHA DE BRIGADEIRO",
+      "tipo": "doce",
       "descricao": "",
-      "valor": 1.8
+      "valor": 4.0,
+      "figura": "../../assets/pictures/produtos/doce/TACINHA DE BRIGADEIRO.png"
     },
     {
       "id": 48,
-      "nome": "TACINHA DE BRIGADEIRO",
+      "nome": "ROMEU E JULIETA",
+      "tipo": "doce",
       "descricao": "",
-      "valor": 4.0
+      "valor": 2.0,
+      "figura": "../../assets/pictures/produtos/doce/ROMEU E JULIETA.png"
     },
     {
       "id": 49,
-      "nome": "ROMEU E JULIETA",
+      "nome": "TACINHA MISTA",
+      "tipo": "doce",
       "descricao": "",
-      "valor": 2.0
+      "valor": 4.0,
+      "figura": "../../assets/pictures/produtos/doce/TACINHA MISTA.png"
     },
     {
       "id": 50,
-      "nome": "TACINHA MISTA",
+      "nome": "SONHO DE VALSA",
+      "tipo": "doce",
       "descricao": "",
-      "valor": 4.0
+      "valor": 2.0,
+      "figura": "../../assets/pictures/produtos/doce/SONHO DE VALSA.png"
     },
     {
       "id": 51,
-      "nome": "SONHO DE VALSA",
+      "nome": "CASADINHO",
+      "tipo": "doce",
       "descricao": "",
-      "valor": 2.0
+      "valor": 1.8,
+      "figura": "../../assets/pictures/produtos/doce/CASADINHO.png"
     },
     {
       "id": 52,
-      "nome": "CASADINHO",
+      "nome": "BOMBOM AMEIXA",
+      "tipo": "doce",
       "descricao": "",
-      "valor": 1.8
+      "valor": 2.0,
+      "figura": "../../assets/pictures/produtos/doce/BOMBOM AMEIXA.png"
     },
     {
       "id": 53,
-      "nome": "BOMBOM AMEIXA",
-      "descricao": "",
-      "valor": 2.0
+      "nome": "CASQUINHA RECHEADA CHOCOLATE",
+      "tipo": "doce",
+      "descricao": "Massa: Casquinha de forno. Recheio: Chocolate",
+      "valor": 2.0,
+      "figura": "../../assets/pictures/produtos/doce/CASQUINHA RECHEADA CHOCOLATE.png"
     },
     {
       "id": 54,
-      "nome": "CASQUINHA RECHEADA CHOCOLATE",
-      "descricao": "Massa: Casquinha de forno. Recheio: Chocolate",
-      "valor": 2.0
+      "nome": "CASQUINHA RECHEADA DOCE DE LEITE",
+      "tipo": "doce",
+      "descricao": "Massa: Casquinha de forno. Recheio: Doce de leite",
+      "valor": 2.0,
+      "figura": "../../assets/pictures/produtos/doce/CASQUINHA RECHEADA DOCE DE LEITE.png"
     },
     {
       "id": 55,
-      "nome": "CASQUINHA RECHEADA DOCE DE LEITE",
-      "descricao": "Massa: Casquinha de forno. Recheio: Doce de leite",
-      "valor": 2.0
+      "nome": "CASQUINHA RECHEADA LEITE CONDENSADO",
+      "tipo": "doce",
+      "descricao": "Massa: Casquinha de forno. Recheio: Leite condensado",
+      "valor": 2.0,
+      "figura": "../../assets/pictures/produtos/doce/CASQUINHA RECHEADA LEITE CONDENSADO.png"
     },
     {
       "id": 56,
-      "nome": "CASQUINHA RECHEADA LEITE CONDENSADO",
-      "descricao": "Massa: Casquinha de forno. Recheio: Leite condensado",
-      "valor": 2.0
+      "nome": "MINI TORTA GELADA NEGRESCA",
+      "tipo": "doce",
+      "tipo": "doce",
+      "tipo": "doce",
+      "descricao": "(PRODUTO POR  R$54,50 KG) PREÇO DO PRODUTO FICA CONDICIONADO AO PESO FINAL. MASSA: CHOCOLATE COM COCO RECHEIO: BASE DE LEITE CONDENSADO (Decoração poderá ser modificada)",
+      "valor": 54.5,
+      "figura": "../../assets/pictures/produtos/doce/MINI TORTA GELADA NEGRESCA.png"
     },
     {
       "id": 57,
-      "nome": "MINI TORTA GELADA NEGRESCA",
-      "descricao": "(PRODUTO POR  R$54,50 KG) PREÇO DO PRODUTO FICA CONDICIONADO AO PESO FINAL. MASSA: CHOCOLATE COM COCO RECHEIO: BASE DE LEITE CONDENSADO (Decoração poderá ser modificada)",
-      "valor": 54.5
+      "nome": "MINI TORTA GELADA ITALIANA",
+      "tipo": "doce",
+      "tipo": "doce",
+      "descricao": "PRODUTO POR  R$54,50 KG) PREÇO DO PRODUTO FICA CONDICIONADO AO PESO FINAL. MASSA: CHOCOLATE. RECHEIO: CREME ITALIANO. (Decoração poderá ser modificada",
+      "valor": 54.5,
+      "figura": "../../assets/pictures/produtos/doce/MINI TORTA GELADA ITALIANA.png"
     },
     {
       "id": 58,
-      "nome": "MINI TORTA GELADA ITALIANA",
-      "descricao": "PRODUTO POR  R$54,50 KG) PREÇO DO PRODUTO FICA CONDICIONADO AO PESO FINAL. MASSA: CHOCOLATE. RECHEIO: CREME ITALIANO. (Decoração poderá ser modificada",
-      "valor": 54.5
+      "nome": "MINI TORTA CHOCOLATE GELADA",
+      "tipo": "doce",
+      "descricao": "(PRODUTO POR  R$54,50 KG) PREÇO DO PRODUTO FICA CONDICIONADO AO PESO FINAL. MASSA: CHOCOLATE. RECHEIO: BASE DE CHOCOLATE. (Decoração poderá ser modificada)",
+      "valor": 54.5,
+      "figura": "../../assets/pictures/produtos/doce/MINI TORTA CHOCOLATE  GELADA.png"
     },
     {
       "id": 59,
-      "nome": "MINI TORTA CHOCOLATE GELADA",
-      "descricao": "(PRODUTO POR  R$54,50 KG) PREÇO DO PRODUTO FICA CONDICIONADO AO PESO FINAL. MASSA: CHOCOLATE. RECHEIO: BASE DE CHOCOLATE. (Decoração poderá ser modificada)",
-      "valor": 54.5
+      "nome": "MINI TORTA GELADA MORANGO",
+      "tipo": "doce",
+      "descricao": "(PRODUTO POR 54,50 kg) PREÇO DO PRODUTO FICA CONDICIONADO AO PESO FINAL. MASSA: BOLO BRANCO. RECHEIO: BASE DE LEITE CONDENSADO E GELEIA DE MORANGO. (Decoração poderá ser modificada)",
+      "valor": 54.5,
+      "figura": "../../assets/pictures/produtos/doce/MINI TORTA GELADA MORANGO.png"
     },
     {
       "id": 60,
-      "nome": "MINI TORTA GELADA MORANGO",
-      "descricao": "(PRODUTO POR 54,50 kg) PREÇO DO PRODUTO FICA CONDICIONADO AO PESO FINAL. MASSA: BOLO BRANCO. RECHEIO: BASE DE LEITE CONDENSADO E GELEIA DE MORANGO. (Decoração poderá ser modificada)",
-      "valor": 54.5
+      "nome": "MINI TORTA DE MORANGO TRUFADO",
+      "tipo": "doce",
+      "descricao": "(PRODUTO POR  R$54,50 KG) PREÇO DO PRODUTO FICA CONDICIONADO AO PESO FINAL. MASSA: CHOCOLATE. RECHEIO: CHANTILLY COM GELEIA DE MORANGO. (Decoração poderá ser modificada)",
+      "valor": 54.5,
+      "figura": "../../assets/pictures/produtos/doce/MINI TORTA DE MORANGO TRUFADO.png"
     },
     {
       "id": 61,
-      "nome": "MINI TORTA DE MORANGO TRUFADO",
-      "descricao": "(PRODUTO POR  R$54,50 KG) PREÇO DO PRODUTO FICA CONDICIONADO AO PESO FINAL. MASSA: CHOCOLATE. RECHEIO: CHANTILLY COM GELEIA DE MORANGO. (Decoração poderá ser modificada)",
-      "valor": 54.5
+      "nome": "MINI TORTA GELADA BRIGADEIRO",
+      "tipo": "doce",
+      "descricao": "(PRODUTO POR  R$54,50 KG) PREÇO DO PRODUTO FICA CONDICIONADO AO PESO FINAL. MASSA: CHOCOLATE. RECHEIO: CHOCOLATE  (Decoração poderá ser modificada)",
+      "valor": 54.5,
+      "figura": "../../assets/pictures/produtos/doce/MINI TORTA GELADA BRIGADEIRO.png"
     },
     {
       "id": 62,
-      "nome": "MINI TORTA GELADA BRIGADEIRO",
-      "descricao": "(PRODUTO POR  R$54,50 KG) PREÇO DO PRODUTO FICA CONDICIONADO AO PESO FINAL. MASSA: CHOCOLATE. RECHEIO: CHOCOLATE  (Decoração poderá ser modificada)",
-      "valor": 54.5
+      "nome": "MINI TORTA GELADA MESCLADA",
+      "tipo": "doce",
+      "descricao": "(PRODUTO POR  R$54,50 KG) PREÇO DO PRODUTO FICA CONDICIONADO AO PESO FINAL. MASSA: BRANCA E CHOCOLATE. RECHEIO : CHOCOLATE E BASA DE LEITE CONDENSADO (Decoração poderá ser modificada)",
+      "valor": 54.5,
+      "figura": "../../assets/pictures/produtos/doce/MINI TORTA GELADA MESCLADA.png"
     },
     {
       "id": 63,
-      "nome": "MINI TORTA GELADA MESCLADA",
-      "descricao": "(PRODUTO POR  R$54,50 KG) PREÇO DO PRODUTO FICA CONDICIONADO AO PESO FINAL. MASSA: BRANCA E CHOCOLATE. RECHEIO : CHOCOLATE E BASA DE LEITE CONDENSADO (Decoração poderá ser modificada)",
-      "valor": 54.5
+      "nome": "Mini torta gelada ROMEU E JULIETA",
+      "tipo": "doce",
+      "descricao": "(PRODUTO POR R$54,50kg) PREÇO DO PRODUTO FICA CONDICIONADO AO PESO FINAL. Massa: branca Recheio: base de leite condensado com goiabada ( Decoração poderá ser modificada)",
+      "valor": 54.5,
+      "figura": "../../assets/pictures/produtos/doce/Mini torta gelada ROMEU E JULIETA.png"
     },
     {
       "id": 64,
-      "nome": "Mini torta gelada ROMEU E JULIETA",
-      "descricao": "(PRODUTO POR R$54,50kg) PREÇO DO PRODUTO FICA CONDICIONADO AO PESO FINAL. Massa: branca Recheio: base de leite condensado com goiabada ( Decoração poderá ser modificada)",
-      "valor": 54.5
+      "nome": "ROCAMBOLE DE CHOCOLATE",
+      "tipo": "doce",
+      "descricao": "(PRODUTO POR  R$54,50 KG) PREÇO DO PRODUTO FICA CONDICIONADO AO PESO FINAL. MASSA: CHOCOLATE. RECHEIO: CHOCOLATE. (Decoração poderá ser modificada)",
+      "valor": 54.5,
+      "figura": "../../assets/pictures/produtos/doce/ROCAMBOLE DE CHOCOLATE.png"
     },
     {
       "id": 65,
-      "nome": "ROCAMBOLE DE CHOCOLATE",
-      "descricao": "(PRODUTO POR  R$54,50 KG) PREÇO DO PRODUTO FICA CONDICIONADO AO PESO FINAL. MASSA: CHOCOLATE. RECHEIO: CHOCOLATE. (Decoração poderá ser modificada)",
-      "valor": 54.5
+      "nome": "ROCAMBOLE DE MORANGO 🍓",
+      "tipo": "doce",
+      "descricao": "(PRODUTO POR  R$54,50 KG) PREÇO DO PRODUTO FICA CONDICIONADO AO PESO FINAL. MASSA: BRANCA.RECHEIO: BASE DE LEITE  CONDENSADO E GELEIA DE MORANGO. (Decoração poderá ser modificada)",
+      "valor": 54.5,
+      "figura": "../../assets/pictures/produtos/doce/ROCAMBOLE DE MORANGO 🍓.png"
     },
     {
       "id": 66,
-      "nome": "ROCAMBOLE DE MORANGO 🍓",
-      "descricao": "(PRODUTO POR  R$54,50 KG) PREÇO DO PRODUTO FICA CONDICIONADO AO PESO FINAL. MASSA: BRANCA.RECHEIO: BASE DE LEITE  CONDENSADO E GELEIA DE MORANGO. (Decoração poderá ser modificada)",
-      "valor": 54.5
+      "nome": "ROCAMBOLE DE PRESTIGIO",
+      "tipo": "doce",
+      "descricao": "(PRODUTO POR  R$54,50 KG) PREÇO DO PRODUTO FICA CONDICIONADO AO PESO FINAL. MASSA: CHOCOLATE RECHEIO: BASE DE LEITE CONDENSADO COM COCO (Decoração poderá ser modificada)",
+      "valor": 54.5,
+      "figura": "../../assets/pictures/produtos/doce/ROCAMBOLE DE PRESTIGIO.png"
     },
     {
       "id": 67,
-      "nome": "ROCAMBOLE DE PRESTIGIO",
-      "descricao": "(PRODUTO POR  R$54,50 KG) PREÇO DO PRODUTO FICA CONDICIONADO AO PESO FINAL. MASSA: CHOCOLATE RECHEIO: BASE DE LEITE CONDENSADO COM COCO (Decoração poderá ser modificada)",
-      "valor": 54.5
+      "nome": "ROCAMBOLE FLORESTA NEGRA",
+      "tipo": "doce",
+      "descricao": "(PRODUTO POR  R$54,50 KG) PREÇO DO PRODUTO FICA CONDICIONADO AO PESO FINAL.. MASSA: CHOCOLATE E COCO. RECHEIO: BASE DE LEITE CONDENSADO (Decoração poderá ser modificada)",
+      "valor": 54.5,
+      "figura": "../../assets/pictures/produtos/doce/ROCAMBOLE FLORESTA NEGRA.png"
     },
     {
       "id": 68,
-      "nome": "ROCAMBOLE FLORESTA NEGRA",
-      "descricao": "(PRODUTO POR  R$54,50 KG) PREÇO DO PRODUTO FICA CONDICIONADO AO PESO FINAL.. MASSA: CHOCOLATE E COCO. RECHEIO: BASE DE LEITE CONDENSADO (Decoração poderá ser modificada)",
-      "valor": 54.5
+      "nome": "BRIGADEIRO BANHADO",
+      "tipo": "doce",
+      "descricao": "Massa: brigadeiro. Banho: chocolate preto",
+      "valor": 2.0,
+      "figura": "../../assets/pictures/produtos/doce/BRIGADEIRO BANHADO.png"
     },
     {
       "id": 69,
-      "nome": "BRIGADEIRO BANHADO",
-      "descricao": "Massa: brigadeiro. Banho: chocolate preto",
-      "valor": 2.0
+      "nome": "BOMBOM DE NINHO COM BRIGADEIRO",
+      "tipo": "doce",
+      "descricao": "Massa: Ninho. Banho: brigadeiro",
+      "valor": 2.0,
+      "figura": "../../assets/pictures/produtos/doce/BOMBOM DE NINHO COM BRIGADEIRO.png"
     },
     {
       "id": 70,
-      "nome": "BOMBOM DE NINHO COM BRIGADEIRO",
-      "descricao": "Massa: Ninho. Banho: brigadeiro",
-      "valor": 2.0
+      "nome": "BRIGADEIRO BRANCO BANHADO",
+      "tipo": "doce",
+      "descricao": "Massa: branca. Banho: branco",
+      "valor": 2.0,
+      "figura": "../../assets/pictures/produtos/doce/BRIGADEIRO BRANCO BANHADO.png"
     },
     {
       "id": 71,
-      "nome": "BRIGADEIRO BRANCO BANHADO",
-      "descricao": "Massa: branca. Banho: branco",
-      "valor": 2.0
-    },
-    {
-      "id": 72,
       "nome": "BOMBOM CEREJA",
+      "tipo": "doce",
       "descricao": "Massa: branca. Recheio : cerveja. Banho : branco",
-      "valor": 2.0
+      "valor": 2.0,
+      "figura": "../../assets/pictures/produtos/doce/BOMBOM CEREJA.png"
     }
   ]
 }

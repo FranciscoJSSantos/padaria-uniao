@@ -7,4 +7,5 @@ module.exports = {
     },
     extend: {},
   },
+  plugings: [require("@tailwindcss/aspect-ratio")],
 };
