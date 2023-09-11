@@ -7,6 +7,8 @@ import { PRODUCTS } from 'src/shared/products';
   styleUrls: ['./cardapio.component.scss'],
 })
 export class CardapioComponent implements OnInit {
+
+  searchTerm: any;
   cardapios: Product[] = [];
 
   constructor() {}
