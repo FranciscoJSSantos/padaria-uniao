@@ -1,4 +1,10 @@
 @import "~swiper/css";
 @import "~swiper/css/pagination";
 @import "~swiper/css/navigation";
+@import "swiper/css/autoplay";
 
+
+.swiper-button-prev, .swiper-button-next {
+   width: 1rem !important;
+   height: 1rem !important;
+}

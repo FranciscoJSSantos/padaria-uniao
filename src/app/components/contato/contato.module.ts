@@ -1,5 +1,5 @@
 import { CommonModule } from '@angular/common';
-import { NgModule } from '@angular/core';
+import { CUSTOM_ELEMENTS_SCHEMA, NgModule } from '@angular/core';
 import { ContatoRoutingModule } from './contato-routing.module';
 import { ContatoComponent } from './contato.component';
 
@@ -10,6 +10,6 @@ import { ContatoComponent } from './contato.component';
   imports: [
     CommonModule
   ],
-  exports: [ContatoComponent, ContatoRoutingModule]
+  exports: [ContatoComponent, ContatoRoutingModule],
 })
 export class ContatoModule { }

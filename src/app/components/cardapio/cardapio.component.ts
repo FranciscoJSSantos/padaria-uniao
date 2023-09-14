@@ -17,6 +17,7 @@ export class CardapioComponent implements OnInit {
 
   ngOnInit(): void {
     this.cardapios = PRODUCTS;
+    this.screenWidth = window.innerWidth;
   }
 
   @HostListener('window:resize', ['$event'])
@@ -25,7 +26,7 @@ export class CardapioComponent implements OnInit {
   }
 
   tamTxt() {
-    if (this.screenWidth >= 640) {
+    if (this.screenWidth >= 375) {
       return 'ellipsis';
     } else {
       return '';
