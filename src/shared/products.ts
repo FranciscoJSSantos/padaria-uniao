@@ -3,12 +3,11 @@ import { Product } from './product';
 export const PRODUCTS: Product[] = [
   {
     id: 1,
-    nome: 'PASTEL FRITO DE CARNE DE PORCO (SÓ COM AÇÚCAR)',
+    nome: 'COXINHA DE FRANGO',
     tipo: 'salgado',
     descricao: '',
-    valor: 2.0,
-    figura:
-      '../assets/pictures/produtos/salgado/PASTEL FRITO DE CARNE DE PORCO (SÓ COM AÇÚCAR).png',
+    valor: 1.45,
+    figura: '../assets/pictures/produtos/salgado/COXINHA DE FRANGO.png',
   },
   {
     id: 2,
@@ -174,11 +173,12 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: 22,
-    nome: 'COXINHA DE FRANGO',
+    nome: 'PASTEL FRITO DE CARNE DE PORCO (SÓ COM AÇÚCAR)',
     tipo: 'salgado',
     descricao: '',
-    valor: 1.45,
-    figura: '../assets/pictures/produtos/salgado/COXINHA DE FRANGO.png',
+    valor: 2.0,
+    figura:
+      '../assets/pictures/produtos/salgado/PASTEL FRITO DE CARNE DE PORCO (SÓ COM AÇÚCAR).png',
   },
   {
     id: 23,
